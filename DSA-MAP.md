@@ -6,9 +6,9 @@
 
 - [x] [2.Check if sub array with 0 sum is exists or not](http://www.techiedelight.com/check-subarray-with-0-sum-exists-not/)
 
-- [ ] [3.Print all sub-arrays with 0 sum](http://www.techiedelight.com/find-sub-array-with-0-sum/)
+- [x] [3.Print all sub-arrays with 0 sum](http://www.techiedelight.com/find-sub-array-with-0-sum/)
 
-- [ ] [4.Sort binary array in linear time](http://www.techiedelight.com/sort-binary-array-linear-time/)
+- [x] [4.Sort binary array in linear time](http://www.techiedelight.com/sort-binary-array-linear-time/)
 
 - [ ] [5.Find a duplicate element in a limited range array](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
 
