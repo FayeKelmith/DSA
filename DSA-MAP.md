@@ -10,7 +10,7 @@
 
 - [x] [4.Sort binary array in linear time](http://www.techiedelight.com/sort-binary-array-linear-time/)
 
-- [ ] [5.Find a duplicate element in a limited range array](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
+- [x] [5.Find a duplicate element in a limited range array](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
 
 - [ ] [6.Find largest sub-array formed by consecutive integers](http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/)
 

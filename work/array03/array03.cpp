@@ -16,7 +16,6 @@ void print(vector<int> list, int start, int end){
 void subArraySet(vector<int>& numbers){
    
     unordered_map<int, int> sumToIndex;
-    vector<int> result;
     int sum = 0;
 
     for(int i = 0;i<numbers.size();i++){
