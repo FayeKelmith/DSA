@@ -14,7 +14,7 @@
 
 - [x] [6.Find largest sub-array formed by consecutive integers](http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/)
 
-- [ ] [7.Find maximum length sub-array having given sum](http://www.techiedelight.com/find-maximum-length-sub-array-having-given-sum/)
+- [x] [7.Find maximum length sub-array having given sum](http://www.techiedelight.com/find-maximum-length-sub-array-having-given-sum/)
 
 - [ ] [8.Find maximum length sub-array having equal number of 0’s and 1’s](http://www.techiedelight.com/find-maximum-length-sub-array-equal-number-0s-1s/)
 
