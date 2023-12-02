@@ -12,7 +12,7 @@
 
 - [x] [5.Find a duplicate element in a limited range array](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
 
-- [ ] [6.Find largest sub-array formed by consecutive integers](http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/)
+- [x] [6.Find largest sub-array formed by consecutive integers](http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/)
 
 - [ ] [7.Find maximum length sub-array having given sum](http://www.techiedelight.com/find-maximum-length-sub-array-having-given-sum/)
 
